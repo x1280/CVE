@@ -1,6 +1,6 @@
 
 
-# Mastering JavaScript DOM Manipulation: A Guide to Inserting, Replacing, and Removing Child ElementsSubmitted by oretnom23 has Sensitive Information Leakage
+# Mastering JavaScript DOM Manipulation: A Guide to Inserting, Replacing, and Removing Child Elements Submitted by oretnom23 has Sensitive Information Leakage
 
 #### BUG_Author: xxxw
 
